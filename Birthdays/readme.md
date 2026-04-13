@@ -1,7 +1,2 @@
-//
-//  Untitled.swift
-//  Birthdays
-//
-//  Created by ycw012 on 4/13/26.
-//
-
+## 제목 넣기
+ - 배운 내용
