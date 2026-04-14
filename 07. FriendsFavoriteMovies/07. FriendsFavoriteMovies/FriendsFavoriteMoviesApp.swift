@@ -17,6 +17,8 @@ struct FriendsFavoriteMoviesApp: App {
             ContentView()
             
         }
-//        .modelContainer(SampleData.shared.modelContainer) // 이 줄 추가!
+
+        .modelContainer(for: [Movie.self, Friend.self])
+        
     }
 }

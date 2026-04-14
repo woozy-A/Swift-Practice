@@ -30,8 +30,8 @@
             filePath = "07. FriendsFavoriteMovies/sampleData.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "37"
-            endingLineNumber = "37"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
             landmarkName = "inserrtSampleData()"
             landmarkType = "7">
          </BreakpointContent>

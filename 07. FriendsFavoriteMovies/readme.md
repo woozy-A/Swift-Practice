@@ -1,4 +1,4 @@
-## 제목 넣기
+## 첫번째꺼
  - 배운 내용
 
 
@@ -39,3 +39,24 @@ is​Stored​In​Memory​Only: true 이부분을 false로 바꿔도 안뜨긴
 내가 필요한 기능을 찾아가면서 공부하는게 맞을것같다는 생각도 들었습니다.
 
 그치만 일단 자꾸 써보고 자꾸 보다보면 이해가는 부분도 생길것 같아 열심히 해보겠습니다.
+
+## 두번째꺼
+
+
+FriendList 의
+            .sheet(item: $newFriend) { friend in
+                    NavigationStack {
+                        FriendDetail(friend: friend)
+                    }
+                    }
+                    하고
+                    
+MovieList 의
+            .sheet(item: $newMovie) { movie in
+                NavigationStack {
+                    MovieDetail(movie: movie)
+                }
+            }
+            
+            하고 동일한 코드인데 왜 다르게 동작하는지 이해가 안됨
+            오타를 냈을 수도 있으나 다른 사람과 비교 필요!
